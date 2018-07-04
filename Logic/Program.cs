@@ -31,7 +31,7 @@ namespace Logic
                         var input = Console.ReadLine();
                         blocks.Add(regex.IsMatch(input) == false ? 0 : Int32.Parse(input));
                     } while(blocks.Count < 5);
-                    var countWater = WaterBlock.WaterBlockCalculator(blocks.ToArray());
+                    var countWater = WaterBlock.WaterBlockCalculator(blocks.ToArray(), true);
                     Console.WriteLine("Water in block : " + countWater);
                     break;
                 default:

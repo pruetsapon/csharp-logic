@@ -11,8 +11,8 @@ namespace Logic
         static void Main(string[] args)
         {
             Console.WriteLine("Please select the choice : [1-2]");
-            Console.WriteLine("1. InputText");
-            Console.WriteLine("2. WaterBlock");
+            Console.WriteLine("1.InputText");
+            Console.WriteLine("2.WaterBlock");
 
             var choice = Console.ReadLine();
             switch(Int32.Parse(choice))

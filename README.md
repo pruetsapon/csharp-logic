@@ -1,4 +1,4 @@
-# logic-test
+# Logic Example
 
 ## Installation
     - install asp.net core  https://www.microsoft.com/net/download/core

@@ -1,4 +1,4 @@
-Challenge Statement
+Logic Test
 
 Logic test is a backend logic application written.
 

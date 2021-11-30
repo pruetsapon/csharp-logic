@@ -3,8 +3,7 @@ Logic Test
 Logic test is a backend logic application written.
 
 Prerequisites:
-- .NET Core SDK 2.1.4
-
+- .NET SDK 5.0
 =====================================
 Development Environment
 =====================================
